@@ -1,0 +1,2 @@
+Method;Best Parameters;Accuracy Training;Accuracy Testing
+Svm;{'C': 10, 'kernel': 'rbf'};1.0;0.9672222222222222
